@@ -1,0 +1,17 @@
+#container {
+    width: 1400px;
+    margin: auto;
+}
+
+
+header {
+    height: 180px;
+    background-image: url("./img/img/pattern.png");
+    background-color: rgb(39, 152, 228);
+}
+
+.logo {
+    width: 20%;
+    margin-top: 85px;
+    margin-left: 10px;
+}
