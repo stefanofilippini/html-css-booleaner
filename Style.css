@@ -42,3 +42,43 @@ h1 {
     margin-top: 0px;
 }
 
+.paragraph {
+    font-size: 25px;
+}
+
+.important {
+    background-color: yellow;
+}
+
+table {
+    font-size: 25px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.column-1 {
+    width: 25%;
+}
+
+.column-2 {
+    width: 25%;
+}
+
+.column-3 {
+    width: 50%;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+
+.even-row {
+    margin: 0px;
+    background-color: rgb(30, 156, 214);
+}
+
+.odd-row {
+    margin: 0px;
+    background-color: white;
+}
