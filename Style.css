@@ -54,6 +54,7 @@ table {
     font-size: 25px;
     text-align: left;
     border-collapse: collapse;
+    margin-bottom: 25px;
 }
 
 .column-1 {
