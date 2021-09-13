@@ -76,10 +76,37 @@ thead {
 
 .even-row {
     margin: 0px;
-    background-color: rgb(30, 156, 214);
+    background-color: rgb(95, 189, 212);
 }
 
 .odd-row {
     margin: 0px;
     background-color: white;
+}
+
+.subtitle-2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 40px;
+    color: grey;
+}
+
+.link-1 {
+    font-size: 30px;
+    color: white;
+    background-image: url("./img/img/monitor.jpg");
+    background-repeat: no-repeat;
+    height: 210px;
+    width: auto;
+    margin: 10px;
+}
+
+.link-2 {
+    font-size: 30px;
+    color: white;
+    background-image: url("./img/img/graph.jpg");
+    background-repeat: no-repeat;
+    height: 210px;
+    width: auto;
+    margin: 10px;
 }
